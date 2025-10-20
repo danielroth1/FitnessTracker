@@ -2,6 +2,8 @@
 
 FitnessTracker is a small Java desktop application built with JavaFX and Maven. It provides a lightweight UI for managing workout routines. The project is structured as a standard Maven project and includes a simple model, repository, service layer, and JavaFX views/controllers.
 
+<img src="https://github.com/user-attachments/assets/12849167-266c-49c5-9e80-2a6d158cdf82" width="500"/>
+
 ## Features
 
 - Manage workout routines (model: `WorkoutRoutine`).
