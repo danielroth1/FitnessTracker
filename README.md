@@ -80,14 +80,3 @@ mvnw.cmd test
 - If you see module-related errors, check `module-info.java` and ensure JavaFX modules are listed and provided at runtime.
 - On Windows, remember to use `mvnw.cmd` instead of `mvnw`.
 
-## License
-
-This project does not include a license file. Add a license if you plan to publish or share it.
-
----
-
-If you'd like, I can:
-
-- Add a sample `launch` configuration for VS Code/IntelliJ.
-- Populate the README with screenshots and example data.
-- Generate a runnable fat JAR configuration in `pom.xml`.
